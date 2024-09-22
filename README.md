@@ -1,4 +1,4 @@
-# Agrupamento
+# Clustering Agrupamento
 
 A machine learning clustering algorithm I developed to identify wine types using a Kaggle dataset.
 
